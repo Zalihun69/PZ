@@ -1,0 +1,17 @@
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\bin\Debug\rpg11iktgy1.deps.json
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\bin\Debug\rpg11iktgy1.runtimeconfig.json
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\bin\Debug\rpg11iktgy1.dll
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\bin\Debug\rpg11iktgy1.pdb
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\obj\Debug\rpg11iktgy1.csproj.AssemblyReference.cache
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\obj\Debug\rpg11iktgy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\obj\Debug\rpg11iktgy1.AssemblyInfoInputs.cache
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\obj\Debug\rpg11iktgy1.AssemblyInfo.cs
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\obj\Debug\rpg11iktgy1.csproj.CoreCompileInputs.cache
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\obj\Debug\rpg11ikt.B6FAE5A3.Up2Date
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\obj\Debug\rpg11iktgy1.dll
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\obj\Debug\refint\rpg11iktgy1.dll
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\obj\Debug\rpg11iktgy1.pdb
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\obj\Debug\rpg11iktgy1.genruntimeconfig.cache
+C:\Users\pokro\Documents\rpgdialogusnelkul-main\.godot\mono\temp\obj\Debug\ref\rpg11iktgy1.dll
